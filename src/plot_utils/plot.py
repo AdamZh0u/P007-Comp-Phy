@@ -1,4 +1,5 @@
 import matplotlib as mpl
+
 def setup_mpl(as_default=1): # My mpl setup
     if as_default: mpl.rcdefaults()
     else:
