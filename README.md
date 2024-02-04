@@ -1,4 +1,4 @@
-# C007 Computational Physics
+# P007 Computational Physics
 My solutions to the computational physics course. The course is based on the book by Giordano and Nakanishi (2005).
 
 
